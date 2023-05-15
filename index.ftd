@@ -16,7 +16,7 @@ site-name: `playfair-display-font`
 
 -- end: ds.page.footer
 
--- pd.package: playfair-display-font package
+-- pd.package: FTD playfair-display-font package
 name: fastn-community.github.io/playfair-display-font
 
 This FTD font `playfair-display-font` can be used for your ftd web projects. 
@@ -31,7 +31,7 @@ color: $inherited.colors.text-strong
 
 `font-size: 12px, font-weight: 400` 
 
-👉 The quick brown fox jumps over the lazy dog 
+llllllll
 
 
 -- ftd.text: 
@@ -40,7 +40,7 @@ color: $inherited.colors.text-strong
 
 `font-size: 12px, font-weight: 500` 
 
-👉 The quick brown fox jumps over the lazy dog 
+llllllll
 
 -- ftd.text: 
 role: $custom.playfair-display-font-size-12-800
@@ -48,7 +48,7 @@ color: $inherited.colors.text-strong
 
 `font-size: 12px, font-weight: 800` 
 
-👉 The quick brown fox jumps over the lazy dog 
+llllllll
 
 
 -- ftd.text: 
@@ -57,7 +57,7 @@ color: $inherited.colors.text-strong
 
 `font-size: 18px, font-weight: 400` 
 
-👉 The quick brown fox jumps over the lazy dog 
+llllllll
 
 -- ftd.text: 
 role: $custom.playfair-display-font-size-18-500
@@ -65,7 +65,7 @@ color: $inherited.colors.text-strong
 
 `font-size: 18px, font-weight: 500` 
 
-👉 The quick brown fox jumps over the lazy dog 
+llllllll
 
 -- ftd.text: 
 role: $custom.playfair-display-font-size-18-800
@@ -73,7 +73,7 @@ color: $inherited.colors.text-strong
 
 `font-size: 18px, font-weight: 800` 
 
-👉 The quick brown fox jumps over the lazy dog 
+llllllll
 
 -- ftd.text: 
 role: $custom.playfair-display-font-size-48-400
@@ -81,7 +81,7 @@ color: $inherited.colors.text-strong
 
 `font-size: 48px, font-weight: 400` 
 
-👉 The quick brown fox jumps over the lazy dog 
+llllllll
 
 -- ftd.text: 
 role: $custom.playfair-display-font-size-48-500
@@ -89,7 +89,7 @@ color: $inherited.colors.text-strong
 
 `font-size: 48px, font-weight: 500` 
 
-👉 The quick brown fox jumps over the lazy dog 
+llllllll
 
 -- ftd.text:
 role: $custom.playfair-display-font-size-48-800
@@ -97,15 +97,6 @@ color: $inherited.colors.text-strong
 
 `font-size: 48px, font-weight: 800` 
 
-👉 The quick brown fox jumps over the lazy dog 
+llllllll
 
 -- end: ds.page
-
-
-
-
-
-
-
-
-

@@ -31,7 +31,9 @@ color: $inherited.colors.text-strong
 
 `font-size: 12px, font-weight: 400` 
 
-llllllll
+Lorem ipsum dolor sit amet, consectetur adipiscing
+elit.
+
 
 
 -- ftd.text: 
@@ -40,7 +42,9 @@ color: $inherited.colors.text-strong
 
 `font-size: 12px, font-weight: 500` 
 
-llllllll
+Lorem ipsum dolor sit amet, consectetur adipiscing
+elit.
+
 
 -- ftd.text: 
 role: $custom.playfair-display-font-size-12-800
@@ -48,7 +52,9 @@ color: $inherited.colors.text-strong
 
 `font-size: 12px, font-weight: 800` 
 
-llllllll
+Lorem ipsum dolor sit amet, consectetur adipiscing
+elit.
+
 
 
 -- ftd.text: 
@@ -57,7 +63,9 @@ color: $inherited.colors.text-strong
 
 `font-size: 18px, font-weight: 400` 
 
-llllllll
+Lorem ipsum dolor sit amet, consectetur adipiscing
+elit.
+
 
 -- ftd.text: 
 role: $custom.playfair-display-font-size-18-500
@@ -65,7 +73,9 @@ color: $inherited.colors.text-strong
 
 `font-size: 18px, font-weight: 500` 
 
-llllllll
+Lorem ipsum dolor sit amet, consectetur adipiscing
+elit.
+
 
 -- ftd.text: 
 role: $custom.playfair-display-font-size-18-800
@@ -73,7 +83,9 @@ color: $inherited.colors.text-strong
 
 `font-size: 18px, font-weight: 800` 
 
-llllllll
+Lorem ipsum dolor sit amet, consectetur adipiscing
+elit.
+
 
 -- ftd.text: 
 role: $custom.playfair-display-font-size-48-400
@@ -81,7 +93,9 @@ color: $inherited.colors.text-strong
 
 `font-size: 48px, font-weight: 400` 
 
-llllllll
+Lorem ipsum dolor sit amet, consectetur adipiscing
+elit.
+
 
 -- ftd.text: 
 role: $custom.playfair-display-font-size-48-500
@@ -89,7 +103,9 @@ color: $inherited.colors.text-strong
 
 `font-size: 48px, font-weight: 500` 
 
-llllllll
+Lorem ipsum dolor sit amet, consectetur adipiscing
+elit.
+
 
 -- ftd.text:
 role: $custom.playfair-display-font-size-48-800
@@ -97,6 +113,8 @@ color: $inherited.colors.text-strong
 
 `font-size: 48px, font-weight: 800` 
 
-llllllll
+Lorem ipsum dolor sit amet, consectetur adipiscing
+elit.
+
 
 -- end: ds.page

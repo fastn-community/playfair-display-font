@@ -1,4 +1,4 @@
-Playfair-Display: fastn Font Package
+Playfair Display: fastn Font Package
 
 This repository contains a [fastn font package](https://fpm.dev/featured/fonts/) containing [Google Font: 
 Playfair-Display](https://fonts.google.com/specimen/Playfair+Display/about).
@@ -27,5 +27,5 @@ server](https://discord.gg/bucrdvptYd).
 
 ## License
 
-Since Arya Font is under [Open Font Licence](https://fonts.google.com/specimen/Playfair+Display/about), this fastn wrapper is also
+Since Playfair Display is under [Open Font Licence](https://fonts.google.com/specimen/Playfair+Display/about), this fastn wrapper is also
 under [Open Font License](LICENSE).

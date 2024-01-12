@@ -1,0 +1,271 @@
+{
+  "files": {
+    "static/Playfair-Display-500-normal-latin-ext.woff2": {
+      "name": "static/Playfair-Display-500-normal-latin-ext.woff2",
+      "hash": "058FD8E17B26FEC2578F985CBC75D51A9A28FDC7060BB20266D5428DA6E183A1",
+      "size": 17984
+    },
+    "custom.ftd": {
+      "name": "custom.ftd",
+      "hash": "51246205C77C213BB421E50D47F462461CACD53122CA590D6593E5741C1AE003",
+      "size": 7215
+    },
+    "README.md": {
+      "name": "README.md",
+      "hash": "1CFE2900BB73C2251DB3255F1EFD2942AE450DD163A8B471A824DE161B83B508",
+      "size": 1253
+    },
+    "static/Playfair-Display-500-italic-vietnamese.woff2": {
+      "name": "static/Playfair-Display-500-italic-vietnamese.woff2",
+      "hash": "B556EAC6F68F035F8F225F5BCD5937AB4B446B5A0D59855E4205BCB20FE80099",
+      "size": 7608
+    },
+    "static/Playfair-Display-500-normal-vietnamese.woff2": {
+      "name": "static/Playfair-Display-500-normal-vietnamese.woff2",
+      "hash": "5ECD273E2DB60500360CF8909250479E30E36BD1A21094775620382CEB937541",
+      "size": 7060
+    },
+    "static/Playfair-Display-800-italic-latin.woff2": {
+      "name": "static/Playfair-Display-800-italic-latin.woff2",
+      "hash": "B574669AC419E9857B34BD603555CC632152F8122F6B154D049E13CC0A167B35",
+      "size": 36104
+    },
+    "static/Playfair-Display-900-normal-latin-ext.woff2": {
+      "name": "static/Playfair-Display-900-normal-latin-ext.woff2",
+      "hash": "058FD8E17B26FEC2578F985CBC75D51A9A28FDC7060BB20266D5428DA6E183A1",
+      "size": 17984
+    },
+    "static/Playfair-Display-500-italic-latin-ext.woff2": {
+      "name": "static/Playfair-Display-500-italic-latin-ext.woff2",
+      "hash": "9A4C6C301002294C1EC159820B33D472B5E8DB08B04B570FD9116160AC5959E7",
+      "size": 20580
+    },
+    "static/Playfair-Display-600-normal-vietnamese.woff2": {
+      "name": "static/Playfair-Display-600-normal-vietnamese.woff2",
+      "hash": "5ECD273E2DB60500360CF8909250479E30E36BD1A21094775620382CEB937541",
+      "size": 7060
+    },
+    "static/Playfair-Display-900-italic-latin-ext.woff2": {
+      "name": "static/Playfair-Display-900-italic-latin-ext.woff2",
+      "hash": "9A4C6C301002294C1EC159820B33D472B5E8DB08B04B570FD9116160AC5959E7",
+      "size": 20580
+    },
+    "static/Playfair-Display-400-italic-cyrillic.woff2": {
+      "name": "static/Playfair-Display-400-italic-cyrillic.woff2",
+      "hash": "816F34CF470BB04628B3933E1A714C9EEB7B76DFF4672737EAF43732E2F47D3D",
+      "size": 23124
+    },
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "hash": "A27F1DA27F99A77BFC1E70148E19DB11B4979CC76D2CA17C4E13002C570B7968",
+      "size": 15310
+    },
+    "static/Playfair-Display-700-normal-cyrillic.woff2": {
+      "name": "static/Playfair-Display-700-normal-cyrillic.woff2",
+      "hash": "068B7C011286F23557651B4C08BFFDF420E3809A35043FDF625BD00C0C041CBF",
+      "size": 20792
+    },
+    "static/Playfair-Display-500-italic-cyrillic.woff2": {
+      "name": "static/Playfair-Display-500-italic-cyrillic.woff2",
+      "hash": "816F34CF470BB04628B3933E1A714C9EEB7B76DFF4672737EAF43732E2F47D3D",
+      "size": 23124
+    },
+    "static/Playfair-Display-700-italic-vietnamese.woff2": {
+      "name": "static/Playfair-Display-700-italic-vietnamese.woff2",
+      "hash": "B556EAC6F68F035F8F225F5BCD5937AB4B446B5A0D59855E4205BCB20FE80099",
+      "size": 7608
+    },
+    "static/Playfair-Display-800-italic-vietnamese.woff2": {
+      "name": "static/Playfair-Display-800-italic-vietnamese.woff2",
+      "hash": "B556EAC6F68F035F8F225F5BCD5937AB4B446B5A0D59855E4205BCB20FE80099",
+      "size": 7608
+    },
+    "static/Playfair-Display-800-normal-vietnamese.woff2": {
+      "name": "static/Playfair-Display-800-normal-vietnamese.woff2",
+      "hash": "5ECD273E2DB60500360CF8909250479E30E36BD1A21094775620382CEB937541",
+      "size": 7060
+    },
+    "static/Playfair-Display-800-italic-latin-ext.woff2": {
+      "name": "static/Playfair-Display-800-italic-latin-ext.woff2",
+      "hash": "9A4C6C301002294C1EC159820B33D472B5E8DB08B04B570FD9116160AC5959E7",
+      "size": 20580
+    },
+    "static/Playfair-Display-600-italic-latin.woff2": {
+      "name": "static/Playfair-Display-600-italic-latin.woff2",
+      "hash": "B574669AC419E9857B34BD603555CC632152F8122F6B154D049E13CC0A167B35",
+      "size": 36104
+    },
+    "static/Playfair-Display-400-italic-latin.woff2": {
+      "name": "static/Playfair-Display-400-italic-latin.woff2",
+      "hash": "B574669AC419E9857B34BD603555CC632152F8122F6B154D049E13CC0A167B35",
+      "size": 36104
+    },
+    "static/Playfair-Display-500-normal-latin.woff2": {
+      "name": "static/Playfair-Display-500-normal-latin.woff2",
+      "hash": "22B6CDC450204C1CB32B31E679D812FEA1C17AC506A7B78DAEB12BD0AB25FDE8",
+      "size": 35764
+    },
+    "static/Playfair-Display-500-italic-latin.woff2": {
+      "name": "static/Playfair-Display-500-italic-latin.woff2",
+      "hash": "B574669AC419E9857B34BD603555CC632152F8122F6B154D049E13CC0A167B35",
+      "size": 36104
+    },
+    "static/Playfair-Display-600-normal-cyrillic.woff2": {
+      "name": "static/Playfair-Display-600-normal-cyrillic.woff2",
+      "hash": "068B7C011286F23557651B4C08BFFDF420E3809A35043FDF625BD00C0C041CBF",
+      "size": 20792
+    },
+    "static/Playfair-Display-600-italic-cyrillic.woff2": {
+      "name": "static/Playfair-Display-600-italic-cyrillic.woff2",
+      "hash": "816F34CF470BB04628B3933E1A714C9EEB7B76DFF4672737EAF43732E2F47D3D",
+      "size": 23124
+    },
+    "static/Playfair-Display-700-italic-latin-ext.woff2": {
+      "name": "static/Playfair-Display-700-italic-latin-ext.woff2",
+      "hash": "9A4C6C301002294C1EC159820B33D472B5E8DB08B04B570FD9116160AC5959E7",
+      "size": 20580
+    },
+    "static/Playfair-Display-600-normal-latin-ext.woff2": {
+      "name": "static/Playfair-Display-600-normal-latin-ext.woff2",
+      "hash": "058FD8E17B26FEC2578F985CBC75D51A9A28FDC7060BB20266D5428DA6E183A1",
+      "size": 17984
+    },
+    "LICENSE": {
+      "name": "LICENSE",
+      "hash": "95A9632336410243B2147554EB1C5CC0FCA6C8DBED399E8F787FC84BD22F7C27",
+      "size": 4011
+    },
+    "static/Playfair-Display-700-normal-latin.woff2": {
+      "name": "static/Playfair-Display-700-normal-latin.woff2",
+      "hash": "22B6CDC450204C1CB32B31E679D812FEA1C17AC506A7B78DAEB12BD0AB25FDE8",
+      "size": 35764
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "hash": "0447DEBC8F6B2B15679BF34704AB2CA3EE39495C38D3696A55B5C0AB84270CA4",
+      "size": 2562
+    },
+    "static/Playfair-Display-400-normal-latin-ext.woff2": {
+      "name": "static/Playfair-Display-400-normal-latin-ext.woff2",
+      "hash": "058FD8E17B26FEC2578F985CBC75D51A9A28FDC7060BB20266D5428DA6E183A1",
+      "size": 17984
+    },
+    "static/Playfair-Display-700-italic-latin.woff2": {
+      "name": "static/Playfair-Display-700-italic-latin.woff2",
+      "hash": "B574669AC419E9857B34BD603555CC632152F8122F6B154D049E13CC0A167B35",
+      "size": 36104
+    },
+    "static/Playfair-Display-800-italic-cyrillic.woff2": {
+      "name": "static/Playfair-Display-800-italic-cyrillic.woff2",
+      "hash": "816F34CF470BB04628B3933E1A714C9EEB7B76DFF4672737EAF43732E2F47D3D",
+      "size": 23124
+    },
+    "static/Playfair-Display-600-italic-latin-ext.woff2": {
+      "name": "static/Playfair-Display-600-italic-latin-ext.woff2",
+      "hash": "9A4C6C301002294C1EC159820B33D472B5E8DB08B04B570FD9116160AC5959E7",
+      "size": 20580
+    },
+    "static/Playfair-Display-800-normal-cyrillic.woff2": {
+      "name": "static/Playfair-Display-800-normal-cyrillic.woff2",
+      "hash": "068B7C011286F23557651B4C08BFFDF420E3809A35043FDF625BD00C0C041CBF",
+      "size": 20792
+    },
+    "static/Playfair-Display-800-normal-latin-ext.woff2": {
+      "name": "static/Playfair-Display-800-normal-latin-ext.woff2",
+      "hash": "058FD8E17B26FEC2578F985CBC75D51A9A28FDC7060BB20266D5428DA6E183A1",
+      "size": 17984
+    },
+    "static/Playfair-Display-900-italic-vietnamese.woff2": {
+      "name": "static/Playfair-Display-900-italic-vietnamese.woff2",
+      "hash": "B556EAC6F68F035F8F225F5BCD5937AB4B446B5A0D59855E4205BCB20FE80099",
+      "size": 7608
+    },
+    "static/Playfair-Display-900-normal-cyrillic.woff2": {
+      "name": "static/Playfair-Display-900-normal-cyrillic.woff2",
+      "hash": "068B7C011286F23557651B4C08BFFDF420E3809A35043FDF625BD00C0C041CBF",
+      "size": 20792
+    },
+    "static/Playfair-Display-400-normal-vietnamese.woff2": {
+      "name": "static/Playfair-Display-400-normal-vietnamese.woff2",
+      "hash": "5ECD273E2DB60500360CF8909250479E30E36BD1A21094775620382CEB937541",
+      "size": 7060
+    },
+    "static/Playfair-Display-400-normal-latin.woff2": {
+      "name": "static/Playfair-Display-400-normal-latin.woff2",
+      "hash": "22B6CDC450204C1CB32B31E679D812FEA1C17AC506A7B78DAEB12BD0AB25FDE8",
+      "size": 35764
+    },
+    "static/Playfair-Display-900-normal-latin.woff2": {
+      "name": "static/Playfair-Display-900-normal-latin.woff2",
+      "hash": "22B6CDC450204C1CB32B31E679D812FEA1C17AC506A7B78DAEB12BD0AB25FDE8",
+      "size": 35764
+    },
+    "static/Playfair-Display-700-italic-cyrillic.woff2": {
+      "name": "static/Playfair-Display-700-italic-cyrillic.woff2",
+      "hash": "816F34CF470BB04628B3933E1A714C9EEB7B76DFF4672737EAF43732E2F47D3D",
+      "size": 23124
+    },
+    "static/Playfair-Display-700-normal-latin-ext.woff2": {
+      "name": "static/Playfair-Display-700-normal-latin-ext.woff2",
+      "hash": "058FD8E17B26FEC2578F985CBC75D51A9A28FDC7060BB20266D5428DA6E183A1",
+      "size": 17984
+    },
+    "static/Playfair-Display-900-italic-cyrillic.woff2": {
+      "name": "static/Playfair-Display-900-italic-cyrillic.woff2",
+      "hash": "816F34CF470BB04628B3933E1A714C9EEB7B76DFF4672737EAF43732E2F47D3D",
+      "size": 23124
+    },
+    "static/Playfair-Display-400-italic-latin-ext.woff2": {
+      "name": "static/Playfair-Display-400-italic-latin-ext.woff2",
+      "hash": "9A4C6C301002294C1EC159820B33D472B5E8DB08B04B570FD9116160AC5959E7",
+      "size": 20580
+    },
+    "static/Playfair-Display-900-normal-vietnamese.woff2": {
+      "name": "static/Playfair-Display-900-normal-vietnamese.woff2",
+      "hash": "5ECD273E2DB60500360CF8909250479E30E36BD1A21094775620382CEB937541",
+      "size": 7060
+    },
+    "static/Playfair-Display-500-normal-cyrillic.woff2": {
+      "name": "static/Playfair-Display-500-normal-cyrillic.woff2",
+      "hash": "068B7C011286F23557651B4C08BFFDF420E3809A35043FDF625BD00C0C041CBF",
+      "size": 20792
+    },
+    "static/Playfair-Display-400-normal-cyrillic.woff2": {
+      "name": "static/Playfair-Display-400-normal-cyrillic.woff2",
+      "hash": "068B7C011286F23557651B4C08BFFDF420E3809A35043FDF625BD00C0C041CBF",
+      "size": 20792
+    },
+    "static/Playfair-Display-800-normal-latin.woff2": {
+      "name": "static/Playfair-Display-800-normal-latin.woff2",
+      "hash": "22B6CDC450204C1CB32B31E679D812FEA1C17AC506A7B78DAEB12BD0AB25FDE8",
+      "size": 35764
+    },
+    "static/Playfair-Display-900-italic-latin.woff2": {
+      "name": "static/Playfair-Display-900-italic-latin.woff2",
+      "hash": "B574669AC419E9857B34BD603555CC632152F8122F6B154D049E13CC0A167B35",
+      "size": 36104
+    },
+    "static/Playfair-Display-600-normal-latin.woff2": {
+      "name": "static/Playfair-Display-600-normal-latin.woff2",
+      "hash": "22B6CDC450204C1CB32B31E679D812FEA1C17AC506A7B78DAEB12BD0AB25FDE8",
+      "size": 35764
+    },
+    "static/Playfair-Display-600-italic-vietnamese.woff2": {
+      "name": "static/Playfair-Display-600-italic-vietnamese.woff2",
+      "hash": "B556EAC6F68F035F8F225F5BCD5937AB4B446B5A0D59855E4205BCB20FE80099",
+      "size": 7608
+    },
+    "static/Playfair-Display-400-italic-vietnamese.woff2": {
+      "name": "static/Playfair-Display-400-italic-vietnamese.woff2",
+      "hash": "B556EAC6F68F035F8F225F5BCD5937AB4B446B5A0D59855E4205BCB20FE80099",
+      "size": 7608
+    },
+    "static/Playfair-Display-700-normal-vietnamese.woff2": {
+      "name": "static/Playfair-Display-700-normal-vietnamese.woff2",
+      "hash": "5ECD273E2DB60500360CF8909250479E30E36BD1A21094775620382CEB937541",
+      "size": 7060
+    }
+  },
+  "zip_url": "https://github.com/fastn-community/playfair-display-font/archive/5777570ea2dd41b2e31333f6903dacf0d67c58ce.zip",
+  "checksum": "5CB186AEEE5EA6F9D209105BFF8CAFF3B4401285C8B374A122EFB44C891B1388"
+}
